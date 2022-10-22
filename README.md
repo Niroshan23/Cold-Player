@@ -8,4 +8,4 @@
 
 ![Capture1](Capture1.PNG)
 
-![](Capture2.PNG)
+![image](Capture2.PNG)
